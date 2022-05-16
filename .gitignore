@@ -10,3 +10,4 @@
 !/app
 !*.hs
 !LICENCE
+!CHANGELOG.md
